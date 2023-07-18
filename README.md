@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CoderRohan1
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in Cp
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to contribute on open platform
-- 📫 LinkedIn - www.linkedin.com/in/rohan-ranjan-885729276 
+- 📫 LinkedIn -www.linkedin.com/in/rohan840
 
 <!---
 CoderRohan1/CoderRohan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
